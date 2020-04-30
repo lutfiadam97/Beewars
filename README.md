@@ -2,6 +2,6 @@
 Sweet Potato's Project
 
 Members :
-* Muhammad Rafi Rinaldi
-* Muhammad Luthfan Camus
-* Lutfi Adam
+* Muhammad Rafi Rinaldi (Game Designer)
+* Muhammad Luthfan Camus (Game Artist)
+* Lutfi Adam (Game Programmer)
